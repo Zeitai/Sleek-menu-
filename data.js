@@ -259,7 +259,7 @@ const STUDIO_CREDIT = {
 const OFFERS_CONFIG = {
   // Paste EITHER the "Publish to web" CSV link OR the normal sheet link
   // (sheet must be shared as "Anyone with the link → Viewer").
-  sheetCsvUrl: "", // <-- paste link here
+  sheetCsvUrl: "https://docs.google.com/spreadsheets/d/101w0ym2f6o4OOA_m3zZFiarJkuXSSBrE0tKMTPC6DoA/edit?usp=sharing", // <-- paste link here
 };
 
 /* Shown only when you open the site with  ?demo=offers  (for previewing the design) */
